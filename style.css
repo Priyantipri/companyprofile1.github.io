@@ -34,7 +34,7 @@ a {
 header h1 {
     float:left;
     padding:15px 0;
-    color:blueviolet;
+    color:rgb(51, 40, 61);
 }
 
 header ul {
@@ -178,7 +178,7 @@ footer {
 } */
 
 .label {
-    background-color: rgb(194, 62, 165);
+    background-color: rgb(90, 68, 85);
     color: #fff;
 }
 
